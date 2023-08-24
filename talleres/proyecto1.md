@@ -1,5 +1,6 @@
 # Proyecto 1
-## Datos
+
+## Datos
 
 El dataset encontrado en este [link]() posee información del consumo de los clientes de una empresa retail cualquiera con las siguientes columnas:
 
