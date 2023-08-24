@@ -1,6 +1,8 @@
 # Proyecto 1
 ## Datos
 
+El dataset encontrado en este [link]() posee información del consumo de los clientes de una empresa retail cualquiera con las siguientes columnas:
+
 `ID`: identificador único de cada cliente
 
 `Year_Birth`: año de nacimiento del cliente
@@ -50,7 +52,7 @@ A partir de lo visto en clase realice una exploración exhaustiva de los datos p
 - 
 ## Problema del proyecto
 
-El objetivo principal del proyecto es encontrar patrones en los clientes
+El objetivo principal del proyecto es encontrar patrones en los clientes evaluando los datos para realizar recomendaciones de mercadeo con el objetivo de incrementar las ventas de la empresa.
 
 ## Entregable
 
