@@ -2,24 +2,43 @@
 ## Datos
 
 `ID`: identificador único de cada cliente
+
 `Year_Birth`: año de nacimiento del cliente
+
 `Education`: nivel educativo del cliente
+
 `Marital_Status`: estado civil del cliente
+
 `Income`: ingreso anual del cliente en dólares
+
 `Kidhome`: número de niños en la casa
+
 `Teenhome`: número de jóvenes en la casa
+
 `Dt_Customer`: fecha desde cuando la persona es cliente
+
 `MntWines`: monto de dinero mensual gastado en licores
+
 `MntFruits`: monto de dinero mensual gastado en frutas y verduras
+
 `MntMeatProducts`: monto de dinero mensual gastado en carnes
+
 `MntFishProducts`: monto de dinero mensual gastado en alimentos del mar
+
 `MntSweetProducts`: monto de dinero mensual gastado en productos para merienda
+
 `MntGoldProds`: monto de dinero mensual gastado en productos suntuosos
+
 `NumDealsPurchases`: número de compras realizadas
+
 `NumWebPurchases`: número de compras realizadas en el sitio web
+
 `NumCatalogPurchases`: número de compras realizadas por catálogo
+
 `NumStorePurchases`: número de compras realizadas en la tienda
+
 `Complain`: si el cliente se quejó en los últimos dos años
+
 `AcceptedCmps`: número de campañas de publicidad aceptadas en los últimos dos años
 
 ## Exploración de datos
