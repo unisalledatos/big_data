@@ -2,7 +2,7 @@
 
 ## Datos
 
-El dataset encontrado en este [link]() posee información del consumo de los clientes de una empresa retail cualquiera con las siguientes columnas:
+El dataset encontrado en este [link](https://github.com/unisalledatos/big_data/blob/main/datos/datos_marketing.csv) posee información del consumo de los clientes de una empresa retail cualquiera con las siguientes columnas:
 
 `ID`: identificador único de cada cliente
 
