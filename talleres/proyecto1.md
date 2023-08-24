@@ -52,7 +52,7 @@ A partir de lo visto en clase realice una exploración exhaustiva de los datos p
 
 El objetivo principal del proyecto es encontrar patrones en los clientes
 
-## Entregable
+## Entregable
 
 - Página web con una página construida con Streamlit que muestre las siguientes secciones:
     - Dataframe inicial
