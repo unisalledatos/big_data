@@ -18,7 +18,7 @@ Realice un análisis estadístico y gráfico de las variables seleccionadas (uni
 Página de streamlit (solamente la url) que contenga
 - Descripción estadística y gráfica de las variables seleccionadas.
 - Conclusiones acerca de las pruebas de hipótesis
-- Análisis georreferenciado del índice de felicidad creado
+- Análisis georreferenciado del índice de bienestar creado
 - Conclusiones acerca de lo encontrado
 
 ## Entregas parciales
