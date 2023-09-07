@@ -15,7 +15,7 @@ Realice un análisis estadístico y gráfico de las variables seleccionadas (uni
     - Colombia y Canadá
     - Colombia y Costa Rica
 ## Entregable final
-Página de streamlit que contenga
+Página de streamlit (solamente la url) que contenga
 - Descripción estadística y gráfica de las variables seleccionadas.
 - Conclusiones acerca de las pruebas de hipótesis
 - Análisis georreferenciado del índice de felicidad creado
